@@ -1,8 +1,13 @@
+print("hello")
+default_num = 3
+while True:
+    num = int(input("Enter a number to divide 3 by it: "))
+    print(default_num/num)
 # print("Hello World")
 # def average(a,b):
 #     return (a + b) / 3 # LogicalError
 # print(average(12, 60))
-# print("Bye WOrld" SyntaxError
+# print("Bye World" SyntaxError
 
 # while True:
 #     age = int(input("Enter a number: "))
