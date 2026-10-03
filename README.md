@@ -152,7 +152,6 @@ const course: CourseSpec = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
 ![Statistical Plotting](https://img.shields.io/badge/Statistical_Distributions-BE185D?style=for-the-badge&logoColor=white)
-![Heatmaps](https://img.shields.io/badge/Heatmaps_%26_Correlations-818CF8?style=for-the-badge&logoColor=white)
 
 ### 🤖 Phase 5 · Machine Learning (Supervised & Unsupervised)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
