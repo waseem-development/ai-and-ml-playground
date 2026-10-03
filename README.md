@@ -22,7 +22,7 @@
 <!-- Action & Community Badges in CodeByPaxto Theme -->
 [![Join Discord](https://img.shields.io/badge/Community-Join_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/nmBJcYZTB)
 [![Official Website](https://img.shields.io/badge/Portfolio-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
-[![GitHub Repository](https://img.shields.io/badge/Curriculum-ai--ml--course-2DD4BF?style=for-the-badge&logo=github&logoColor=0B0F17)](https://github.com/waseem-development/ai-ml-course)
+[![GitHub Repository](https://img.shields.io/badge/Curriculum-ai--and--ml--playground-2DD4BF?style=for-the-badge&logo=github&logoColor=0B0F17)](https://github.com/waseem-development/ai-and-ml-playground)
 [![Instructor](https://img.shields.io/badge/Instructor-Hafiz_Waseem_Ahmed-818CF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem-development)
 [![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C_Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
 
@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/waseem-development/ai-ml-course?style=for-the-badge&color=5755A7&labelColor=0e1420&label=STARS)
-![GitHub forks](https://img.shields.io/github/forks/waseem-development/ai-ml-course?style=for-the-badge&color=818CF8&labelColor=0e1420&label=FORKS)
-![GitHub repo size](https://img.shields.io/github/repo-size/waseem-development/ai-ml-course?style=for-the-badge&color=2DD4BF&labelColor=0e1420&label=REPO+SIZE)
+![GitHub Repo stars](https://img.shields.io/github/stars/waseem-development/ai-and-ml-playground?style=for-the-badge&color=5755A7&labelColor=0e1420&label=STARS)
+![GitHub forks](https://img.shields.io/github/forks/waseem-development/ai-and-ml-playground?style=for-the-badge&color=818CF8&labelColor=0e1420&label=FORKS)
+![GitHub repo size](https://img.shields.io/github/repo-size/waseem-development/ai-and-ml-playground?style=for-the-badge&color=2DD4BF&labelColor=0e1420&label=REPO+SIZE)
 ![Profile Views](https://komarev.com/ghpvc/?username=waseem-development-ai-ml&label=COURSE+VIEWS&style=for-the-badge&color=BE185D)
 
 </div>
@@ -68,7 +68,7 @@ const course: CourseSpec = {
   brand       : "CodeByPaxto",
   cadence     : "Live interactive cohort · Fri, Sat, Sun · 1 hour intensive sessions",
   hub         : "https://discord.gg/nmBJcYZTB",
-  repository  : "https://github.com/waseem-development/ai-ml-course",
+  repository  : "https://github.com/waseem-development/ai-and-ml-playground",
   portfolio   : "https://www.codebypaxto.com",
 
   builtFor    : [
@@ -214,7 +214,7 @@ const course: CourseSpec = {
 ### 1. Clone this Repository
 ```bash
 git clone https://github.com/waseem-development/ai-and-ml-playground.git
-cd ai-ml-course
+cd ai-and-ml-playground
 ```
 
 ### 2. Set Up a Clean Conda Environment
