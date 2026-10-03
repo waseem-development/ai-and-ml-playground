@@ -213,7 +213,7 @@ const course: CourseSpec = {
 
 ### 1. Clone this Repository
 ```bash
-git clone https://github.com/waseem-development/ai-ml-course.git
+git clone https://github.com/waseem-development/ai-and-ml-playground.git
 cd ai-ml-course
 ```
 
