@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=AI%20and%20ML%20Playground&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20From%20Absolute%20Zero%20to%20Production%20Machine%20Learning&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto AI & ML Playground Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5755A7,50:818CF8,100:2DD4BF&height=220&section=header&text=AI%20%26amp%3B%20ML%20Playground&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=CodeByPaxto%20·%20From%20Absolute%20Zero%20to%20Production%20Machine%20Learning&descSize=16&descAlignY=58&descColor=fcf8ff" alt="CodeByPaxto AI & ML Playground Banner" />
 
 </div>
 
@@ -126,7 +126,7 @@ const course: CourseSpec = {
 
 <div align="center">
 
-### 💻 Environment, Shell & Version Control
+### 💻 Phase 1 · Environment, Shell & Python Core
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Miniconda](https://img.shields.io/badge/Miniconda_/_Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -134,17 +134,36 @@ const course: CourseSpec = {
 ![GitHub](https://img.shields.io/badge/GitHub-0E1420?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Shell-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 📊 Data Intelligence & Computation
+### 📐 Phase 2 · Mathematics for Data Science & Machine Learning
+![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-5755A7?style=for-the-badge&logoColor=white)
+![Vectors & Matrices](https://img.shields.io/badge/Vectors_%26_Matrices-818CF8?style=for-the-badge&logoColor=white)
+![Calculus & Gradients](https://img.shields.io/badge/Calculus_%26_Gradients-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Probability & Distributions](https://img.shields.io/badge/Probability_%26_Distributions-BE185D?style=for-the-badge&logoColor=white)
+![Optimization](https://img.shields.io/badge/Loss_%26_Optimization-3776AB?style=for-the-badge&logoColor=white)
+
+### 📊 Phase 3 · Data Intelligence, Computing & EDA
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![EDA Architecture](https://img.shields.io/badge/EDA_Architecture-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Data Wrangling](https://img.shields.io/badge/Data_Wrangling_%26_Cleaning-5755A7?style=for-the-badge&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter_Notebooks-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🤖 Machine Learning & Modeling
+### 📈 Phase 4 · Data Visualization & Visual Storytelling
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white)
+![Statistical Plotting](https://img.shields.io/badge/Statistical_Distributions-BE185D?style=for-the-badge&logoColor=white)
+![Heatmaps](https://img.shields.io/badge/Heatmaps_%26_Correlations-818CF8?style=for-the-badge&logoColor=white)
+
+### 🤖 Phase 5 · Machine Learning (Supervised & Unsupervised)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Math for ML](https://img.shields.io/badge/Mathematics_for_DS_%26_ML-5755A7?style=for-the-badge&logoColor=white)
-![EDA Pipelines](https://img.shields.io/badge/EDA_Architecture-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-5755A7?style=for-the-badge&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised_Learning-2DD4BF?style=for-the-badge&logoColor=0B0F17)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-818CF8?style=for-the-badge&logoColor=white)
+
+### 🚀 Phase 6 · Evaluation Pipelines & Capstone Project
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation_%26_Metrics-BE185D?style=for-the-badge&logoColor=white)
+![Pipelines](https://img.shields.io/badge/Scikit--Learn_Pipelines-0E1420?style=for-the-badge&logoColor=white)
+![Capstone Project](https://img.shields.io/badge/Portfolio_Capstone_Project-2DD4BF?style=for-the-badge&logoColor=0B0F17)
 
 </div>
 
@@ -181,43 +200,6 @@ const course: CourseSpec = {
 
 ---
 
-<br/>
-
-<div align="center">
-
-## 📂 &nbsp; R E P O S I T O R Y &nbsp; A R C H I T E C T U R E
-
-</div>
-
-<br/>
-
-```text
-ai-ml-course/
-├── 📁 handouts/                                # Deep-dive student PDF and HTML guides
-│   ├── 📄 3_Python_Closures_and_nonlocal_Student_Handout.pdf
-│   ├── 📄 4_Python_Decorators_Student_Handout.pdf
-│   ├── 📄 5_Recursion_Student_Handout.html
-│   ├── 📄 6_oop_handout.html
-│   └── 📄 7_Python_os_and_pathlib_Handout.pdf
-├── 📁 slides/                                  # Complete presentation decks per module
-│   ├── 📁 1_python_slides/                     # Python syntax, control flow, functions
-│   ├── 📁 2_version_ control_system/           # Git, GitHub & collaborative workflows
-│   ├── 📁 3_mathematics_for_data_science.../   # Applied statistics & linear algebra
-│   ├── 📁 4_numpy/                             # Vectorized arrays & array manipulation
-│   ├── 📁 5_pandas/                            # DataFrames, series & wrangling patterns
-│   ├── 📁 6_matplotlib/                        # Figures, axes & customized charting
-│   └── 📁 7_seaborn/                           # Statistical distributions & aesthetics
-├── 📁 source_code/                             # Executable code, scripts & lab notebooks
-│   ├── 📁 1_python/                            # Python problem sets & code walkthroughs
-│   └── 📁 2_descriptive_statistics/            # Mathematical & computational lab scripts
-├── 📁 programming_languages_comparison/        # Comparative syntax & paradigms
-├── 📁 supporting material/                     # Reference sheets, cheatsheets & datasets
-└── 📄 revision1.py                             # Rapid diagnostic syntax refresher
-```
-
-<br/>
-
----
 
 <br/>
 
