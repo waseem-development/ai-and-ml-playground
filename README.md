@@ -11,7 +11,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3600&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=🐍+Phase+1%3A+Python+Core+from+Absolute+Zero;📊+Phase+2%3A+Descriptive+Statistics+%26+Math+for+Data+Science;⚡+Phase+3%3A+Vectorized+NumPy+%26+High-Performance+Pandas;📈+Phase+4%3A+Publication-Grade+Matplotlib+%26+Seaborn+Viz;🔍+Phase+5%3A+End-to-End+Exploratory+Data+Analysis+(EDA);🤖+Phase+6%3A+Classical+Scikit-Learn+ML+Models+%26+Capstone;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://discord.gg/nmBJcYZTB)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3600&pause=1000&color=2DD4BF&center=true&vCenter=true&multiline=false&repeat=true&width=860&height=50&lines=🐍+Phase+1%3A+Python+Core+from+Absolute+Zero;📐+Phase+2%3A+Mathematics+for+Data+Science+and+Machine+Learning;⚡+Phase+3%3A+Vectorized+NumPy+%26+High-Performance+Pandas;📈+Phase+4%3A+Publication-Grade+Matplotlib+%26+Seaborn+Viz;🔍+Phase+5%3A+End-to-End+Exploratory+Data+Analysis+(EDA);🤖+Phase+6%3A+Classical+Scikit-Learn+ML+Models+%26+Capstone;🤲+رَّبِّ+زِدْنِي+عِلْمًا+—+My+Lord%2C+increase+me+in+knowledge.)](https://discord.gg/nmBJcYZTB)
 
 </div>
 
@@ -80,7 +80,7 @@ const course: CourseSpec = {
   learningOutcomes: [
     "Terminal literacy, reproducible conda environments, and modern Git workflows",
     "Idiomatic Python: closures, recursion, decorators, OOP, os & pathlib automation",
-    "Applied statistics, probability distributions & linear algebra tailored for ML",
+    "Mathematics for Data Science and Machine Learning: linear algebra, matrices, probability & calculus",
     "High-speed numerical vectorization with NumPy and structured wrangling with Pandas",
     "Publication-grade exploratory visual storytelling using Matplotlib and Seaborn",
     "End-to-end data pipelines: cleaning dirty data, handling nulls & feature scaling",
@@ -143,7 +143,7 @@ const course: CourseSpec = {
 
 ### 🤖 Machine Learning & Modeling
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Math for ML](https://img.shields.io/badge/Linear_Algebra_%26_Stats-5755A7?style=for-the-badge&logoColor=white)
+![Math for ML](https://img.shields.io/badge/Mathematics_for_DS_%26_ML-5755A7?style=for-the-badge&logoColor=white)
 ![EDA Pipelines](https://img.shields.io/badge/EDA_Architecture-2DD4BF?style=for-the-badge&logoColor=0B0F17)
 
 </div>
@@ -164,13 +164,12 @@ const course: CourseSpec = {
 
 | Phase | Milestone & Focus | Key Deliverables & Practical Labs | Repo Assets |
 | :---: | :--- | :--- | :---: |
-| **01** | **Python Foundations from Ground Zero** | Memory model, primitive data types, control flow, functions, collections (lists, dicts, tuples, sets), exception handling, and debugging. | [`slides/1_python_slides`](./slides/1_python_slides)<br/>[`source_code/1_python`](./source_code/1_python) |
-| **02** | **Idiomatic Python & System Automation** | Closures, the `nonlocal` keyword, custom decorators, recursion, OOP architecture, and filesystem automation with `os` and `pathlib`. | [`handouts/`](./handouts)<br/>*(Student PDF & HTML Guides)* |
-| **03** | **Version Control & Engineering Environment** | Git branching, merge strategies, remote repositories on GitHub, SSH keys, Conda environment isolation, and terminal hygiene. | [`slides/2_version_ control_system`](./slides/2_version_%20control_system) |
-| **04** | **Applied Math & Descriptive Statistics for DS** | Central tendencies, variance, standard deviation, interquartile ranges, covariance, correlation matrices, vectors, matrices, and dot products. | [`slides/3_mathematics_for_data_science_and_machine_learning`](./slides/3_mathematics_for_data_science_and_machine_learning)<br/>[`source_code/2_descriptive_statistics`](./source_code/2_descriptive_statistics) |
-| **05** | **Vectorized Computing with NumPy & Pandas** | N-dimensional arrays, broadcasting, vectorization vs loops, DataFrames, indexing (`loc`/`iloc`), missing data imputation, joins, groupbys, and aggregations. | [`slides/4_numpy`](./slides/4_numpy)<br/>[`slides/5_pandas`](./slides/5_pandas) |
-| **06** | **Visual Storytelling & Exploratory Data Analysis** | Publication-grade charting with Matplotlib & Seaborn, distributions, heatmaps, categorical plots, multivariate EDA workflows on uncurated datasets. | [`slides/6_matplotlib`](./slides/6_matplotlib)<br/>[`slides/7_seaborn`](./slides/7_seaborn) |
-| **07** | **Machine Learning Modeling & Capstone Defense** | Train/test splits, feature scaling, regression models, classification models, cross-validation, hyperparameter tuning, metrics, and a self-directed Capstone. | [`source_code/`](./source_code)<br/>*(Capstone Project Template)* |
+| **01** | **Python Core & Engineering Foundations** | Memory model, primitive data types, control flow, functions, collections, OOP, closures, decorators, file automation, and Git/Conda environment hygiene. | [`slides/1_python_slides`](./slides/1_python_slides)<br/>[`slides/2_version_ control_system`](./slides/2_version_%20control_system)<br/>[`handouts/`](./handouts)<br/>[`source_code/1_python`](./source_code/1_python) |
+| **02** | **Mathematics for Data Science and Machine Learning** | Linear algebra, vectors, matrices, dot products, matrix transformations, calculus intuitions (gradients, derivatives), probability, and loss functions. | [`slides/3_mathematics_for_data_science_and_machine_learning`](./slides/3_mathematics_for_data_science_and_machine_learning)<br/>[`source_code/2_descriptive_statistics`](./source_code/2_descriptive_statistics) |
+| **03** | **Vectorized Computing with NumPy & Pandas** | N-dimensional arrays, broadcasting, vectorization vs loops, DataFrames, indexing (`loc`/`iloc`), missing data imputation, joins, groupbys, and aggregations. | [`slides/4_numpy`](./slides/4_numpy)<br/>[`slides/5_pandas`](./slides/5_pandas) |
+| **04** | **Visual Storytelling (Matplotlib & Seaborn)** | Publication-grade charting, figure architectures, statistical distributions, heatmaps, categorical plots, and customized aesthetics. | [`slides/6_matplotlib`](./slides/6_matplotlib)<br/>[`slides/7_seaborn`](./slides/7_seaborn) |
+| **05** | **Exploratory Data Analysis (EDA)** | End-to-end data pipelines: ingesting dirty uncurated datasets, outlier detection, feature scaling, correlation analysis, and multivariate investigation. | [`supporting material/`](./supporting%20material)<br/>*(Hands-on Datasets & Case Studies)* |
+| **06** | **Machine Learning Foundations & Capstone Defense** | Train/test splits, regression models, classification models, Scikit-Learn pipelines, cross-validation, hyperparameter tuning, metrics, and a self-directed Capstone. | [`source_code/`](./source_code)<br/>*(Capstone Project Template)* |
 
 <br/>
 
@@ -210,7 +209,7 @@ ai-ml-course/
 │   └── 📁 7_seaborn/                           # Statistical distributions & aesthetics
 ├── 📁 source_code/                             # Executable code, scripts & lab notebooks
 │   ├── 📁 1_python/                            # Python problem sets & code walkthroughs
-│   └── 📁 2_descriptive_statistics/            # Statistical computation scripts
+│   └── 📁 2_descriptive_statistics/            # Mathematical & computational lab scripts
 ├── 📁 programming_languages_comparison/        # Comparative syntax & paradigms
 ├── 📁 supporting material/                     # Reference sheets, cheatsheets & datasets
 └── 📄 revision1.py                             # Rapid diagnostic syntax refresher
