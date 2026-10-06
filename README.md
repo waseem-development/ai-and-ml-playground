@@ -24,7 +24,7 @@
 [![Official Website](https://img.shields.io/badge/Portfolio-codebypaxto.com-5755A7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.codebypaxto.com)
 [![GitHub Repository](https://img.shields.io/badge/Curriculum-ai--and--ml--playground-2DD4BF?style=for-the-badge&logo=github&logoColor=0B0F17)](https://github.com/waseem-development/ai-and-ml-playground)
 [![Instructor](https://img.shields.io/badge/Instructor-Hafiz_Waseem_Ahmed-818CF8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/waseem-development)
-[![Location](https://img.shields.io/badge/🇵🇰-Quetta%2C_Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
+[![Location](https://img.shields.io/badge/Quetta%2C_Pakistan-01411C?style=for-the-badge)](https://github.com/waseem-development)
 
 </div>
 
@@ -356,7 +356,7 @@ Have questions about the syllabus, need help debugging an assignment, or want to
 
 <br/>
 
-**Quetta, Balochistan, Pakistan 🇵🇰 &nbsp;·&nbsp; بِإِذْنِ اللَّهِ — The best work is still ahead 🤲**
+**Quetta, Balochistan, Pakistan &nbsp;·&nbsp; بِإِذْنِ اللَّهِ — The best work is still ahead 🤲**
 
 <br/>
 
