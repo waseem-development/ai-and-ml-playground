@@ -9,7 +9,6 @@ print(q3 - q1)                    # 5.0​
 
 print(stats.iqr(data))            # 5.0​
 
-
 print(round(np.std(data), 1))     # 26.6​
 
 print(round(np.std(data[:-1]), 1))  # 3.2​
