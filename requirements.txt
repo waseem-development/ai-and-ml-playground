@@ -1,0 +1,61 @@
+# Deep learning / ML
+tensorflow
+scikit-learn
+statsmodels
+joblib
+numba
+
+# Data
+numpy
+pandas
+scipy
+pyarrow
+h5py
+networkx
+
+# Computer vision
+opencv-python
+scikit-image
+pillow
+imageio
+
+# Visualization
+matplotlib
+seaborn
+plotly
+altair
+wordcloud
+
+# Data profiling
+ydata-profiling
+phik
+
+# Notebooks
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+
+# Web / apps
+streamlit
+fastapi
+uvicorn
+httpx
+requests
+python-multipart
+pydantic
+
+# Documents / parsing
+pdfplumber
+python-docx
+openpyxl
+beautifulsoup4
+lxml
+
+# Utilities
+sqlalchemy
+kagglehub
+tqdm
+rich
+pyyaml
+GitPython
